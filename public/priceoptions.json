@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "features": [
+        "Access to gym facilities during regular hours",
+        "Limited group fitness classes",
+        "Access to cardio equipment",
+        "Access to weightlifting equipment"
+      ],
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "features": [
+        "Access to gym facilities during extended hours",
+        "Unlimited group fitness classes",
+        "Access to cardio equipment",
+        "Access to weightlifting equipment",
+        "Access to sauna and steam room",
+        "Discounts on personal training sessions"
+      ],
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "features": [
+        "Access to gym facilities 24/7",
+        "Unlimited group fitness classes",
+        "Access to cardio equipment",
+        "Access to weightlifting equipment",
+        "Access to sauna and steam room",
+        "Unlimited tanning sessions",
+        "Personalized workout plans",
+        "Priority booking for classes and amenities",
+        "Complimentary towels and water bottles"
+      ],
+      "price": 79.99
+    }
+  ]
+  
