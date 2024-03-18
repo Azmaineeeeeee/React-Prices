@@ -1,17 +1,13 @@
-
-import './App.css'
-
+import Nav from './Components/Custom Navbar/custom nav'
 function App() {
 
 
   return (
-    <>
+    <div>
      
-       
-      <h1 className='text-2xl'>Vite + React</h1>
-      <button className="btn btn-accent">Accent</button>
-      
-    </>
+     <Nav></Nav>
+     
+    </div>
   )
 }
 
